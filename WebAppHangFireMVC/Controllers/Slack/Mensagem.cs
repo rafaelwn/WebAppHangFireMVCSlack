@@ -13,8 +13,8 @@ namespace WebAppHangFireMVC.Controllers.Slack
         public static void stpEnvia_Mensagem_Slack(String Ds_Canal, String Ds_Mensagem)
         {
 
-            const string slackToken = "xoxp-140944109254-139585041153-140264866626-e3928b2e70cd2815296ccdd959f80ee6";
-            const string usuario = "Rafael W. Neris";
+            const string slackToken = "xxxxx";
+            const string usuario = "usuario";
 
             try
             {
